@@ -4,7 +4,7 @@ This is a word counting service that also includes a letter counting and languag
 
 ## Screenshots
 
-![Working](https://file.io/KQ14uYKRPk8z)
+![Working](https://file.io/uzWHVX4dRYtv)
 
 ## Run Locally
 
